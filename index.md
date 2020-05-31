@@ -5,7 +5,7 @@
 <br>
 <p>A archive of the webpages that contain the history of the story (ripped from source)</p>
 <br>
-<a href="/MapFantasy/55743877.html">Part 1 (Map fantasy)</a>
+<a href="MapFantasy/55743877.html">Part 1 (Map fantasy)</a>
 <br>
 <a href="">Part 2 (/fit/izen 1)</a>
 <br>
