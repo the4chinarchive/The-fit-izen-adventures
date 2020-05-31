@@ -5,7 +5,7 @@
 <br>
 <a href="/The-fit-izen-adventures/MapFantasy/55743877.html">Part 1 (Map fantasy)</a>
 <br>
-<a href="/The-fit-izen-adventures/isekai/55761078.html">Part 2 (/fit/izen 1)</a>
+<a href="/The-fit-izen-adventures/isekai1/55761078.html">Part 2 (/fit/izen 1)</a>
 <br>
 <a href="/The-fit-izen-adventures/isekai2/55776453.html">Part 3 (/fit/izen 2)</a>
 <br>	
