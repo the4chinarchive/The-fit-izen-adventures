@@ -1,5 +1,4 @@
 <body>
-<h1>The /fit/izen adventure</h1>
 <br>
 <p>I'm still working on uploading the non compressed sites, so not all may work</p>
 <br>
@@ -9,7 +8,7 @@
 <br>
 <a href="">Part 2 (/fit/izen 1)</a>
 <br>
-<a href="">Part 3 (/fit/izen 2)</a>
+<a href="/isekai2/55776453.html">Part 3 (/fit/izen 2)</a>
 <br>	
 <a href="">Part 4 (/fit/izen 3)</a>
 <br>	
