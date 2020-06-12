@@ -15,7 +15,7 @@
 <br>	
 <a href="/The-fit-izen-adventures/Isekaibanned/55802034.html">Part 5 (Isekai brah gets banned)</a>
 <br>
-<a href="/The-fit-izen-adventures/info-Metastripped.jpg">Charecter Info (So far)</a>
+<a href="info-Metastripped.jpg">Charecter Info (So far)</a>
 <br>
 <a href="https://github.com/the4chinarchive/The-fit-izen-adventures">Full files are on the reposatory</a>
 <br>
